@@ -3,7 +3,7 @@ A simple HTML Scraper in C# using Windows Forms
 
 This code is based on the tutorial at http://softvernow.com/2018/09/28/how-to-web-scraping-using-c/, and scrapes from CNN Money using Selenium. The user first, opens the browser, then proceeds to scrape data, then they should hit the exit button to properly close the driver.
 
-Besides following along from scratch, some other functions, along with helpful comments.
+Besides following along from scratch, I've added some other functions, along with helpful comments.
 
 <h2>Features and Skills Demonstrated</h2>
 
